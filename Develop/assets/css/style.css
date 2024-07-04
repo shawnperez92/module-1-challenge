@@ -73,14 +73,17 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-/* assed aside instead of benefits */
+/* added aside instead of benefits */
 aside {
+    position: absolute;
+    top: 924px;
+    right: 0px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 950px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
